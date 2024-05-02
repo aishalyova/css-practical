@@ -1,0 +1,162 @@
+style {
+    width: 50%;
+    height: 200px;
+    margin-left: 1px;
+}
+p{
+    border-style: solid;
+    border-color: black;
+}
+img{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+h1{
+    text-align: center;
+    font-size: 900%;
+}
+body, h1,h2,p,ul,li{
+    margin: 0;
+    padding: 0;
+}
+img{
+  width: 400px;
+  height: 400px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: #f2f2f2;
+    color: #333;
+}
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+header h1{
+    font-size: 24px;
+    margin-bottom: 10px
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+main{
+    padding: 20px;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px
+}
+footer p{
+    margin: 0;
+}
+index-heading{
+    color: #ff0000;
+}
+ul{
+    list-style-type: square;
+    margin-left: 20px;
+}
+body, h1, h2, h3, p, ul, ol, li, dl, dt, dd {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global styles */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  main {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+
+ul, ol, dl {
+    margin-bottom: 20px;
+  }
+  
+  dl {
+    margin-left: 20px;
+  }
+
+
+dt {
+  font-weight: bold;
+}
+
+footer {
+}
+
+dt {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer p {
+    margin: 0;
+
+}
+sub{
+  color: solid black;
+  font-size: 20px;
+  bottom: -19;
+  position: relative;
+  left: 2.5em;
+  padding: 0px;
+  vertical-align: bottom;
+}
